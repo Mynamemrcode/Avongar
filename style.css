@@ -1,0 +1,24 @@
+.Main {
+    width:350px;
+    height:200px;
+}
+body {
+    background: linear-gradient(#a1c4fd 0%, #c2e9fb 100%);
+background-repeat: no-repeat;
+text-align: center;
+}
+h1 {
+    color:darkgoldenrod;
+}
+p {
+    color:darkgoldenrod;
+}
+#MyCarousel img{
+  height:300px;
+    margin-top: 35px;
+    margin-right: 100px;
+}
+img {
+    width:175px;
+    height:175px;
+}
